@@ -12,6 +12,7 @@
     font-weight: bolder;
     font-family: "Roboto Flex", sans-serif;
     font-size: 28px;
+    color: blue;
 }
 
 nav img{
@@ -20,7 +21,7 @@ nav img{
 }
 
 body{
-    background-image: url(galaxia-1920.jpg);
+    background-color: rgb(24, 24, 24);
     color: white;
 }
 
